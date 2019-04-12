@@ -24,7 +24,7 @@ to make Caps Lock behave as Esc.
 ## License and Copyright
 
 Some/all icons based on images from the Noun Project. Attribution available
-in `images/README.md`.
+in `icons/README.md`.
 
 Licensed under the [ISC License](http://www.opensource.org/licenses/ISC)
 
