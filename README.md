@@ -6,12 +6,12 @@ Convenient shortcuts for starting and stopping [uncap][].
 
 ## Installation
 
-1. Clone repo to somewhere, like `%UserProfile%\Documents\src\uncap-distro`
-2. Add the bin path, e.g. `%UserProfile%\Documents\src\uncap-distro\bin` to your
-   `%Path%` in [Windows Environment Variables][]
+1. Clone repo to somewhere, like `%UserProfile%\Documents\GitHub\uncap-distro`
+2. Add the bin path, e.g. `%UserProfile%\Documents\GitHub\uncap-distro\bin`
+   to your `%Path%` in [Windows Environment Variables][]
 3. Make sure `uncap.exe` is available in your `%Path%`. An easy way to do
    this is to copy it into the `uncap-distro\bin` path (e.g. in
-   `%UserProfile%\Documents\src\uncap-distro\bin`, next to `esc` and `caps`.
+   `%UserProfile%\Documents\GitHub\uncap-distro\bin`, next to `esc` and `caps`.
 4. Drag the `esc` and `caps` shortcuts to the Windows task bar
 
 [windows environment variables]: https://docs.microsoft.com/en-us/windows/desktop/procthread/environment-variables
